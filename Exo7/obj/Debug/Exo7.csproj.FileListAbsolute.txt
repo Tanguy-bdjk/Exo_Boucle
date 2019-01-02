@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\Exo_boucle\Exo_Boucles\Exo7\bin\Debug\Exo7.exe.config
+C:\Users\Moi\Desktop\Exo_boucle\Exo_Boucles\Exo7\bin\Debug\Exo7.exe
+C:\Users\Moi\Desktop\Exo_boucle\Exo_Boucles\Exo7\bin\Debug\Exo7.pdb
+C:\Users\Moi\Desktop\Exo_boucle\Exo_Boucles\Exo7\obj\Debug\Exo7.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exo_boucle\Exo_Boucles\Exo7\obj\Debug\Exo7.exe
+C:\Users\Moi\Desktop\Exo_boucle\Exo_Boucles\Exo7\obj\Debug\Exo7.pdb
